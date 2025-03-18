@@ -1,0 +1,1 @@
+These are the exploratory data analytics and machine learning projects I have worked on in thhe past. It shows my understanding of Python, Jupyter Notebook, and how to apply various types of machine learning to real-world projects.
